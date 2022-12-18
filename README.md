@@ -3,3 +3,5 @@ This repo is a compilation of various models with the practical implementation i
 Download this repository to learn and work on machine learning models or Fork to add a copy of this repo on your github.
 File formats .py and .ipynb and datasets used are added to the repo.
 Feel free to approach me on email: katravathvasu000@gmail.com or linkedin: https://www.linkedin.com/in/katravathvasu/
+
+Reference: Machine Learning A-Z: Python & R in Data Science [2022] by Kirill Eremenko, Hadelin de Ponteves.
